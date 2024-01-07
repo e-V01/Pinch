@@ -12,6 +12,7 @@
 		9E8BABB32B457A140077DE28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E8BABB22B457A140077DE28 /* Assets.xcassets */; };
 		9E8BABB62B457A140077DE28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E8BABB52B457A140077DE28 /* Preview Assets.xcassets */; };
 		9EBAE82E2B4AC219001D8139 /* InfoPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EBAE82D2B4AC219001D8139 /* InfoPanel.swift */; };
+		9EBAE8302B4ACB7E001D8139 /* ControlImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EBAE82F2B4ACB7E001D8139 /* ControlImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		9E8BABB22B457A140077DE28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E8BABB52B457A140077DE28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9EBAE82D2B4AC219001D8139 /* InfoPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanel.swift; sourceTree = "<group>"; };
+		9EBAE82F2B4ACB7E001D8139 /* ControlImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				9EBAE82D2B4AC219001D8139 /* InfoPanel.swift */,
+				9EBAE82F2B4ACB7E001D8139 /* ControlImageView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EBAE8302B4ACB7E001D8139 /* ControlImageView.swift in Sources */,
 				9E8BABB12B457A130077DE28 /* ContentView.swift in Sources */,
 				9E8BABAF2B457A130077DE28 /* PinchApp.swift in Sources */,
 				9EBAE82E2B4AC219001D8139 /* InfoPanel.swift in Sources */,
